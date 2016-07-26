@@ -1,3 +1,13 @@
-body {font-family: "Trebuchet MS";}
+body {font-family: "Trebuchet MS"; font-size: 110%;}
 h1   {text-align:center; font-family: helvetica}
 h2   {font-family: minion}
+#indent {margin: 10px 150px 20px 150px;}
+#Nav {
+
+    background-color: #2B547E;
+    padding: 5px;
+    }
+a {color: black;}
+a:link { text-decoration: none}
+a:hover {color: orange;}
+.container {margin: 0 auto; max-width: 40em}
